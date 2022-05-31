@@ -4,8 +4,6 @@
 
 ![alt text](https://github.com/dipesh88/Breast-Cancer-Detection-With-webapp/blob/main/breast%20cancer.png?raw=true)
 
-https://github.com/dipesh88/Breast-Cancer-Detection-With-webapp/blob/main/breast%20cancer.png
-
 ### 1.Project Requirements or Dependencies
 * Anaconda Python (to get ML Libraries)
 * Pip install flask (For Front-end)
